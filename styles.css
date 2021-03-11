@@ -12,7 +12,6 @@ body{
 .header p{
     float: inline-end; 
     display: inline;
-    padding-left: 0px;  
 }
 .header h1{ 
     display:inline;
@@ -36,6 +35,10 @@ h2{
 }
 
 img {
-        display: block;
-        width: 30%;
+    display: block;
+    width: 30%;
+}
+#small{
+    display: block; 
+    width: 15%; 
 }
