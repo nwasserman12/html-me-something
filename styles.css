@@ -2,10 +2,24 @@ body{
     background-color: turquoise; 
     font-family: 'serif';
 }
-#title {
-    text-align: center;
-    font-size: 50px;  
+
+.header img{ 
+    float: inline-end; 
+    width: 5%; 
+    display: inline; 
+    padding-left: 10px; 
 }
+.header p{
+    float: inline-end; 
+    display: inline;
+    padding-left: 0px;  
+}
+.header h1{ 
+    display:inline;
+    text-align: center;
+    padding-left: 680px;   
+    font-size: 50px; 
+}    
 p{
     margin-top: 20px; 
     margin-bottom: 20px; 
